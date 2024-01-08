@@ -1,8 +1,9 @@
 tools :
   SPARQLutilities :
-    https://corese.inria.fr/srv/service/sparql
-    https://fr.dbpedia.org/sparql
-    https://query.wikidata.org/
+    https://fr.dbpedia.org/sparqlEditor/index.html --> a tool who helps writing a quiry
+    https://corese.inria.fr/srv/service/sparql --> internal inria website data query
+    https://fr.dbpedia.org/sparql --> internal DBpedia website data query
+    https://query.wikidata.org/ --> internal Wikidata website data query
 
 
 Q 1.6 :
