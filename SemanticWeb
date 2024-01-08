@@ -3,3 +3,17 @@ Q 1.6 :
   pedro almodovar site:es.dbpedia.org --->  http://es.dbpedia.org/resource/Pedro_Almod%C3%B3var               % it's mendatory to write the link after the denomination "site" without a blank space
 
 Q 1.7
+
+
+
+Q 3.1
+  x
+  1	<http://www.inria.fr/2015/humans-instances#John>
+  2	<http://www.inria.fr/2015/humans-instances#Sophie>
+  3	<http://www.inria.fr/2015/humans-instances#Mark>
+  4	<http://www.inria.fr/2015/humans-instances#Eve>
+  5	<http://www.inria.fr/2015/humans-instances#David>
+  6	<http://www.inria.fr/2015/humans-instances#Laura>
+  7	<http://www.inria.fr/2015/humans-instances#William>
+  8	<http://www.inria.fr/2015/humans-instances#Karl>
+
