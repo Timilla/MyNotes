@@ -1,6 +1,8 @@
 tools :
+  General :
+  https://prefix.cc/ : a website to lookup any RDF namespace
+  http://ldodds.com/foaf/foaf-a-matic.html : generate own foaf schema
   
-
   SPARQLutilities :
     https://fr.dbpedia.org/sparqlEditor/index.html --> a tool who helps writing a quiry
     https://corese.inria.fr/srv/service/sparql --> internal inria website data query
@@ -11,8 +13,7 @@ tools :
     concept explorer, Java Tool --> Build antology / modeling antology
     https://webprotege.stanford.edu/ :  Editor of Antology 
     https://quantumalliance.org/app/lp/#/landing-page : a tool to create antologily graphs
-    https://prefix.cc/ : a website to lookup any RDF namespace
-
+    
 
 Q 1.6 :
   pedro almodovar site:wikidata.org  ---> http://www.wikidata.org/entity/Q55171           % there is a trick. We get the HTML response of the URI (because we are humans), we need to adjust it by modifing entity to wiki
