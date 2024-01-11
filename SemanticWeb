@@ -14,6 +14,7 @@ tools :
     https://webprotege.stanford.edu/ :  Editor of Antology 
     https://quantumalliance.org/app/lp/#/landing-page : a tool to create antologily graphs
     https://lov.linkeddata.es/dataset/lov/  : a search engine for ontologies to use (for example if want describing a person, LOV will suggest foaf)
+    https://service.tib.eu/webvowl/ : is a complement to LOV and can vizualize an ontology
     
 
 Q 1.6 :
