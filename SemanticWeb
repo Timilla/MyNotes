@@ -15,7 +15,9 @@ tools :
     https://quantumalliance.org/app/lp/#/landing-page : a tool to create antologily graphs
     https://lov.linkeddata.es/dataset/lov/  : a search engine for ontologies to use (for example if want describing a person, LOV will suggest foaf)
     https://service.tib.eu/webvowl/ : is a complement to LOV and can vizualize an ontology
-    
+
+  RDFa :
+    https://rdfa.info/play/  : website to look at the HTML ansd the same time the RDF which is inside and the graph visualization. 
 
 Q 1.6 :
   pedro almodovar site:wikidata.org  ---> http://www.wikidata.org/entity/Q55171           % there is a trick. We get the HTML response of the URI (because we are humans), we need to adjust it by modifing entity to wiki
