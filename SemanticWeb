@@ -13,7 +13,7 @@ tools :
     concept explorer, Java Tool --> Build antology / modeling antology
     https://webprotege.stanford.edu/ :  Editor of Antology 
     https://quantumalliance.org/app/lp/#/landing-page : a tool to create antologily graphs
-    https://lov.linkeddata.es/dataset/lov/  : a search engine for ontologies
+    https://lov.linkeddata.es/dataset/lov/  : a search engine for ontologies to use (for example if want describing a person, LOV will suggest foaf)
     
 
 Q 1.6 :
