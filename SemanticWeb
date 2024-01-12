@@ -17,7 +17,11 @@ tools :
     https://service.tib.eu/webvowl/ : is a complement to LOV and can vizualize an ontology
 
   RDFa :
-    https://rdfa.info/play/  : website to look at the HTML ansd the same time the RDF which is inside and the graph visualization. 
+    https://rdfa.info/play/  : website to look at the HTML ansd the same time the RDF which is inside and the graph visualization.
+
+  JSON-LD :
+      https://json-ld.org/playground/ : website tool that can expand, comppact, table, visualize, ... a JSON-LD input.
+
 
 Q 1.6 :
   pedro almodovar site:wikidata.org  ---> http://www.wikidata.org/entity/Q55171           % there is a trick. We get the HTML response of the URI (because we are humans), we need to adjust it by modifing entity to wiki
