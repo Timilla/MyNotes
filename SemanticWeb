@@ -27,6 +27,10 @@ tools :
       https://json-ld.org/playground/ : website tool that can expand, comppact, table, visualize, ... a JSON-LD input.
 
 
+  Additionam cool resourcres :
+    SSD MobileNet : distibute AI on the web use case of annotation of all images from a connected camera. see tuto --> https://www.youtube.com/watch?v=XZ7FYAMCc4M 
+
+
 Q 1.6 :
   pedro almodovar site:wikidata.org  ---> http://www.wikidata.org/entity/Q55171           % there is a trick. We get the HTML response of the URI (because we are humans), we need to adjust it by modifing entity to wiki
   pedro almodovar site:es.dbpedia.org --->  http://es.dbpedia.org/resource/Pedro_Almod%C3%B3var               % it's mendatory to write the link after the denomination "site" without a blank space
