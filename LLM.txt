@@ -1,0 +1,2 @@
+Code a chat localy using a fre LLM API with Hugging Face key : https://www.youtube.com/watch?v=dD_xNmePdd0
+Use Rivet (no code) free app to design an AI workflow : https://www.youtube.com/watch?v=P1PhHWK6n9I
