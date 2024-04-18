@@ -9,18 +9,18 @@ https://www.nngroup.com/articles/AI-conversation-types/
 https://www.nngroup.com/articles/ai-tools-productivity-gains/
 
 
-# identified UCs:
+# Identifying UCs:
 
-## Coding phase
+## Code Generation
 
-- coding assistance using GitHub Copilot or so.
+- Code completion an debugging using GitHub Copilot assistant or so on.
 
-- Gen RAG AI proposing ready to use similar enterprise software blocs or code.
+- Gen RAG AI code synthesis proposing ready to use similar internal software blocs or code.
 
-- GenUI for Code Synthesis with a predifined structured prompt and scrutiny quality-loop (N-Shot).
+- GenUI for code synthesis with a predifined structured prompt and scrutiny quality-loop (N-Shot).
 
 
-## code quality:
+## Code Quality:
 
 - Duplicate Code Detection:Identifying repeated source code fragments within a codebase to maintain code quality.
 
