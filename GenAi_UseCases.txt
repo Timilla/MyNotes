@@ -1,3 +1,5 @@
+lectures :
+
 https://www.nngroup.com/articles/ai-prompt-structure/
 
 https://www.nngroup.com/articles/formatting-long-form-content/
@@ -5,3 +7,13 @@ https://www.nngroup.com/articles/formatting-long-form-content/
 https://www.nngroup.com/articles/AI-conversation-types/
 
 https://www.nngroup.com/articles/ai-tools-productivity-gains/
+
+
+identified UCs:
+
+- coding assistance using GitHub Copilot or so.
+
+- Gen RAG AI proposing ready to use similar enterprise software blocs or code.
+
+- GenUI with a predifined structured prompt and scrutiny quality check-loop
+
