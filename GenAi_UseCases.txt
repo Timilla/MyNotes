@@ -1,4 +1,4 @@
-lectures :
+# lectures :
 
 https://www.nngroup.com/articles/ai-prompt-structure/
 
@@ -9,11 +9,31 @@ https://www.nngroup.com/articles/AI-conversation-types/
 https://www.nngroup.com/articles/ai-tools-productivity-gains/
 
 
-identified UCs:
+# identified UCs:
+
+## Coding phase
 
 - coding assistance using GitHub Copilot or so.
 
 - Gen RAG AI proposing ready to use similar enterprise software blocs or code.
 
-- GenUI with a predifined structured prompt and scrutiny quality check-loop
+- GenUI for Code Synthesis with a predifined structured prompt and scrutiny quality-loop (N-Shot).
+
+
+## code quality:
+
+- Duplicate Code Detection:Identifying repeated source code fragments within a codebase to maintain code quality.
+
+- Code Smell Identification:Identifies problematic patterns in code structure and design that may indicate a deeper issue, unlike other refactoring techniques.
+
+- Bottleneck Identification:Identifying the specific step or component in a process that limits the overall productivity
+
+- Automated review:Automated code review process without human involvement.
+
+
+## Code readability and documenting:
+
+- AutoGen comments and code to text description and reporting
+
+
 
